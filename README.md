@@ -98,6 +98,7 @@ sqoop export \
 
 [2] https://blog.bcmeng.com/post/sqoop.html
 
-[3] [https://blog.csdn.net/sl1992/article/details/53887108#2hive%E8%A1%A8%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA%E5%88%B0mysql%E8%A1%A8%E4%B8%AD](https://blog.csdn.net/sl1992/article/details/53887108#2hive表数据导出到mysql表中)
+[3] https://blog.csdn.net/sl1992/article/details/53887108#2hive%E8%A1%A8%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA%E5%88%B0mysql%E8%A1%A8%E4%B8%AD
 
+[4] https://www.zybuluo.com/aitanjupt/note/209968
 
